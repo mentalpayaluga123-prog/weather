@@ -1,0 +1,6 @@
+{
+  "name": "WeatherSphere",
+  "description": "Futuristic weather dashboard featuring real-time forecasts, atmospheric telemetry, weather alerts, and an interactive 3D weather globe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
